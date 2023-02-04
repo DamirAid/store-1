@@ -8,6 +8,7 @@ const ThemeProvider = ({ children }) => {
     theme: theme,
     setTheme: setTheme
   }
+const ale = "alo"
 
   return (
     <ThemeContext.Provider value={defaultProps}>
