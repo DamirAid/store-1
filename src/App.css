@@ -8,8 +8,10 @@ body {
 
 .app.dark {
     background: #10105d;
+    color: red;
 }
 
 .app.light {
     background: #be9898;
+    color: blue;
 }
