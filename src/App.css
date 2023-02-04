@@ -4,6 +4,7 @@ body {
 
 .app {
     min-height: 100vh;
+    font-size: inherit;
 }
 
 .app.dark {
