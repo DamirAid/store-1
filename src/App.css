@@ -5,7 +5,9 @@ body {
 .app {
     min-height: 100vh;
 }
-
+.sanjar {
+	background-color: #fff;
+}
 .app.dark {
     background: #01014a;
 }
